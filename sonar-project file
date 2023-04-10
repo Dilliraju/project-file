@@ -1,4 +1,4 @@
-sonar.projectkey=java-web-appllication
+sonar.projectKey=java-web-appllication
 sonar.projectName=web-application
 sonar.projectVersion=master
 sonar.issuesReport.html.enable=true
