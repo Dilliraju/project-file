@@ -1,0 +1,6 @@
+sonar.projectkey=java-web-appllication
+sonar.projectName=web-application
+sonar.projectVersion=master
+sonar.issuesReport.html.enable=true
+sonar.sources=.
+sonar.tests=src/test/java
